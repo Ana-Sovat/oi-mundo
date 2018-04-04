@@ -1,2 +1,2 @@
 # oi-mundo
-repositório é um nome feio
+repositório é um nome muito feio
